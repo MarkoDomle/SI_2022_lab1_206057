@@ -3,3 +3,4 @@ Sok x 5
 Makaroni x 3
 Seker x 1
 Maslo x 3
+Sol x 1
