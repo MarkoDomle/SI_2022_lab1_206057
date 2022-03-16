@@ -1,0 +1,95 @@
+commit 35acf3ec507b95b55bbf185b65291bd3e5aea012 (HEAD -> master, branch2, branch1)
+Author: MarkoDomle <markodomleski07@hotmail.com>
+Date:   Wed Mar 16 16:38:40 2022 +0100
+
+    Add quantities to the items
+
+Искористив git add . , git commit -m , git push  за да ги синхронизирам со оддалечениот репозиторим
+
+commit 252f0038958e3dd5187d89d9f7baa00bd219e902
+Author: MarkoDomle <markodomleski07@hotmail.com>
+Date:   Wed Mar 16 16:36:48 2022 +0100
+
+    Add 5 items to the shopping list
+
+commit 4e4cb669e7a6a85b07155773c86a6d61caac0866 (origin/master, origin/HEAD)
+Author: MarkoDomle <101731007+MarkoDomle@users.noreply.github.com>
+Date:   Wed Mar 16 16:23:33 2022 +0100
+
+    Update README.md
+
+commit 0d20d565b01fb151169d66c0320cc3b916d137ff
+Author: MarkoDomle <101731007+MarkoDomle@users.noreply.github.com>
+Date:   Wed Mar 16 16:22:27 2022 +0100
+
+    Initial commit
+
+$ git log
+commit 8c1ca047fd1ff5b8b884e064bdc4181bc5125351 (HEAD -> branch2)
+Author: MarkoDomle <markodomleski07@hotmail.com>
+Date:   Wed Mar 16 21:15:12 2022 +0100
+
+    Modify item #4
+
+commit 35acf3ec507b95b55bbf185b65291bd3e5aea012
+Author: MarkoDomle <markodomleski07@hotmail.com>
+Date:   Wed Mar 16 16:38:40 2022 +0100
+
+    Add quantities to the items
+
+commit 252f0038958e3dd5187d89d9f7baa00bd219e902
+Author: MarkoDomle <markodomleski07@hotmail.com>
+Date:   Wed Mar 16 16:36:48 2022 +0100
+
+    Add 5 items to the shopping list
+
+commit 4e4cb669e7a6a85b07155773c86a6d61caac0866
+Author: MarkoDomle <101731007+MarkoDomle@users.noreply.github.com>
+Date:   Wed Mar 16 16:23:33 2022 +0100
+
+    Update README.md
+
+commit 0d20d565b01fb151169d66c0320cc3b916d137ff
+Author: MarkoDomle <101731007+MarkoDomle@users.noreply.github.com>
+Date:   Wed Mar 16 16:22:27 2022 +0100
+
+    Initial commit
+
+
+commit 9ae7eb13a7d4da73272e1943123001d9749fb3b1 (HEAD -> branch2)
+Author: MarkoDomle <markodomleski07@hotmail.com>
+Date:   Wed Mar 16 21:16:28 2022 +0100
+
+    Modify item #4 and add item 6
+
+commit 8c1ca047fd1ff5b8b884e064bdc4181bc5125351
+Author: MarkoDomle <markodomleski07@hotmail.com>
+Date:   Wed Mar 16 21:15:12 2022 +0100
+
+    Modify item #4
+
+commit 35acf3ec507b95b55bbf185b65291bd3e5aea012
+Author: MarkoDomle <markodomleski07@hotmail.com>
+Date:   Wed Mar 16 16:38:40 2022 +0100
+
+    Add quantities to the items
+
+commit 252f0038958e3dd5187d89d9f7baa00bd219e902
+Author: MarkoDomle <markodomleski07@hotmail.com>
+Date:   Wed Mar 16 16:36:48 2022 +0100
+
+    Add 5 items to the shopping list
+
+commit 4e4cb669e7a6a85b07155773c86a6d61caac0866
+Author: MarkoDomle <101731007+MarkoDomle@users.noreply.github.com>
+Date:   Wed Mar 16 16:23:33 2022 +0100
+
+    Update README.md
+
+commit 0d20d565b01fb151169d66c0320cc3b916d137ff
+Author: MarkoDomle <101731007+MarkoDomle@users.noreply.github.com>
+Date:   Wed Mar 16 16:22:27 2022 +0100
+
+    Initial commit
+Конфликтот го разрешив така што ги оставив само промените кои ми
+ се потребни во фајлот(го отворив фајлот и ги избришав непотребните итеми).
